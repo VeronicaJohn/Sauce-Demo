@@ -1,0 +1,20 @@
+{
+    "pagetitle":{
+        "title":"Swag Labs"
+    },
+    "addtocartText":{
+        "addText":"Add to cart",
+        "removeText":"Remove"
+    },
+    "orderDetails1":{
+        "ItemName":"Sauce Labs Backpack"
+    },
+    "orderDetails2":{
+        "ItemName":"Sauce Labs Bolt T-Shirt"
+    },
+    "Information":{
+        "firstName":"Katherina",
+        "lastName":"Pierce",
+        "pinCode":"600234"
+    }
+}
