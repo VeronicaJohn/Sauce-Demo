@@ -14,7 +14,7 @@ test('Sauce Demo Page',async({page})=>{
 
         await sauce.productPage();
     })
-    await page.pause();
+    //await page.pause();
     await test.step('Adding to Cart',async()=>{
 
         await sauce.addTocartPage();
